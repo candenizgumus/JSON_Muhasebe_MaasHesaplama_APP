@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Ahmet",
+    "surname": "Yilmaz",
+    "role": "Yonetici",
+    "saatlikUcret": 600,
+    "bonus": 20000,
+    "calismaSaati": 160
+  },
+  {
+    "name": "Ayse",
+    "surname": "Demir",
+    "role": "Memur",
+    "degree": "JUNIOR",
+    "calismaSaati": 180
+  },
+  {
+    "name": "Mehmet",
+    "surname": "Kaya",
+    "role": "Yonetici",
+    "saatlikUcret": 550,
+    "bonus": 15000,
+    "calismaSaati": 170
+  },
+  {
+    "name": "Zeynep",
+    "surname": "Cetin",
+    "role": "Memur",
+    "degree": "MID",
+    "calismaSaati": 133
+  },
+  {
+    "name": "Can",
+    "surname": "Ozkan",
+    "role": "Yonetici",
+    "saatlikUcret": 580,
+    "bonus": 18000,
+    "calismaSaati": 155
+  },
+  {
+    "name": "Fatma",
+    "surname": "Aydin",
+    "role": "Memur",
+    "degree": "SENIOR",
+    "calismaSaati": 200
+  },
+  {
+    "name": "Ahmet",
+    "surname": "Yildirim",
+    "role": "Yonetici",
+    "saatlikUcret": 600,
+    "bonus": 25000,
+    "calismaSaati": 165
+  },
+  {
+    "name": "Deniz",
+    "surname": "Usta",
+    "role": "Memur",
+    "degree": "JUNIOR",
+    "calismaSaati": 149
+  },
+  {
+    "name": "Gizem",
+    "surname": "Yilmaz",
+    "role": "Yonetici",
+    "saatlikUcret": 620,
+    "bonus": 0,
+    "calismaSaati": 9
+  },
+  {
+    "name": "Burak",
+    "surname": "Ergin",
+    "role": "Memur",
+    "degree": "MID",
+    "calismaSaati": 5
+  }
+]
